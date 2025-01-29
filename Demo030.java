@@ -27,7 +27,7 @@ class ArrayListCode {
 }
 
 // Main class to run the program
-public class demo030 {
+public class Demo030 {
     public static void main(String[] args) {
         // Create an object of ArrayListCode and call arrayListMethod
         ArrayListCode obj = new ArrayListCode();
